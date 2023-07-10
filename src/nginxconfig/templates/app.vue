@@ -178,7 +178,7 @@ THE SOFTWARE.
                 },
                 active: 0,
                 ready: false,
-                splitColumn: false,
+                splitColumn: true,
                 confWatcherWaiting: false,
                 confFilesPrevious: {},
                 confFilesOutput: [],

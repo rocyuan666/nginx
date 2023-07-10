@@ -53,7 +53,7 @@ THE SOFTWARE.
         data() {
             return {
                 scrolled: false,
-                closed: false,
+                closed: true,
             };
         },
         computed: {
